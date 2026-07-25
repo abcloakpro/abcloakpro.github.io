@@ -1,18 +1,15 @@
 # ABcloakPro
 
-Official documentation website for ABcloakPro.
-
-ABcloakPro is a Web traffic management and request processing technology project.
+ABcloakPro official documentation website.
 
 ## Website
 
-Official Website:
+https://abcloakpro.github.io
+
+
+## Official Website
 
 https://www.abcloakpro.com
-
-Documentation:
-
-https://abcloakpro.github.io
 
 
 ## About
@@ -21,20 +18,13 @@ ABcloakPro focuses on:
 
 - Web traffic management
 - Request processing
-- Web infrastructure design
-- Technical architecture
-
-
-## Resources
-
-GitHub:
-
-https://github.com/abcloakpro
+- Web architecture
+- Infrastructure design
 
 
 ## Documentation
 
-- Project Introduction
 - Architecture Design
-- Development Guide
-- Technical Updates
+- Getting Started
+- FAQ
+- Changelog
